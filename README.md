@@ -1,4 +1,4 @@
-# Little-Lemon-Restaurant ( Front End Development Capstone Coursera Assignment)
+# Little-Lemon-Restaurant-Booking-Site  ( Front End Development Capstone Coursera Assignment)
 
 Little Lemon Booking Website
 Project Description
